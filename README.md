@@ -8,3 +8,7 @@ modulando la señal, calculanddo su potencia su potencia , como tambien el indic
 
 en la parte B de la practtica se debioeron medir en el osciloscopio para los siguientes casos, el tiempo de bit y verificar el indice de modulacion absoluto, usssando un amodificacion del codigo usado en la prte A, esta practica resulta muy intteresanttte para quienes esttatn apasionaddos por las comunicaciones mostrando la complejidad qeu pueden tener los ssistemas modernos de radio.
 
+
+
+# Nota:
+en esta practica se pudo evidenciar un error con el adaptador de cable a radio pues el conector estaba dañado y no permitia que el osciloscopio tuviese una buena entrada, adicionalmente se tuvieron inconvenientes con el cable de comunicacion, "se tuvo que cambiar de punta y cable"  para la realizacion del lab
