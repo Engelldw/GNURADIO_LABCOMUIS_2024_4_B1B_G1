@@ -6,5 +6,5 @@ modulando la señal, calculanddo su potencia su potencia , como tambien el indic
 ![Texto alternativo](Practica_3/imagnes/1.jpg)
 ![Texto alternativo](Practica_3/imagnes/3.jpg)
 
-en la parte B de la practtica se debioeron medir en el osciloscopio para los siguientes casos, el tiempo de bit y verificar el indice de modulacion absoluto, usssando un amodificacion del codigo usado en la prte A, esta practica resulta muy intteresanttte para quienes esttatn apasionaddos por las comunicaciones mostrando la complejidad qeu pueden tener los ssistemas modernos de radio.
+en la parte B de la practica se debieron medir en el osciloscopio para los siguientes casos, el tiempo de bit y verificar el indice de modulacion absoluto, usando un amodificacion del codigo usado en la parte A, esta practica resulta muy intteresanttte para quienes esttatn apasionaddos por las comunicaciones mostrando la complejidad qeu pueden tener los sistemas modernos de radio.
 
