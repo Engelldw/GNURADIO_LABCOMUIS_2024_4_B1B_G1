@@ -6,3 +6,7 @@ señales como esta:
 
 Aqui se debe destacar la importancia del mantttenimiento de los equipos ya que durante el desarrollo de la misma practica se presenttaron inconvenientes debido al estado defectuoso de algunos radios.
 Tambien se analizo una señal .wav buscando comprender hasta que punto esta señal era comprensible porque se le estaba añadiendo ruido
+
+
+# Nota:
+en esta practica se pudo evidenciar un error con el quipo de osciloscopio el cual no queria recibir la señal de salida del radio, "se tuvo que cambiar de osciloscopio"  para la realizacion del lab por uno de menor potencia 
