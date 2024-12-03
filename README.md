@@ -4,3 +4,6 @@ funcionamento basico de como crear diagramas de flujo en el sotfware, como usar 
 Esta prractica es de vital importancia ya que a partir de esta se deberan desarrollar las siguientes con los aprendizajes obtenidos, como se conecttan entre si los equipos, cual 
 es la escala correcta de lectura en el osciloscopio y como interprretar el analizador de espectros.
 
+# Nota:
+en esta practica se pudo evidenciar un error con el quipo de radio que no reconocia el computador, "se tuvo que cambiar de radio"  para la realizacion del lab
+
